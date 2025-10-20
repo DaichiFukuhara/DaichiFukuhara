@@ -1,16 +1,18 @@
-## Hi there 👋
+## Skills
 
-<!--
-**DaichiFukuhara/DaichiFukuhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Languages**: JavaScript, Python, Java
+- **Frameworks**: React, Node.js, Django
+- **Tools**: Git, Docker, VS Code
 
-Here are some ideas to get you started:
+## Code Snippet
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+def hello_world():
+    print("Hello, world!")
+
+hello_world()
+
+## プロフィールの装飾
+
+- **バッジ**: Shields.ioを使ってバッジを追加し、スキルやステータスを表示できます。
+- **GIF**: 楽しいアニメーションや画像を追加して、プロフィールを魅力的に見せましょう。
