@@ -1,16 +1,17 @@
 ## Skills
 
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Django
-- **Tools**: Git, Docker, VS Code
+- **Languages**: C, C++, Python, Java
+- **Tools**: Git, VS Code
 
 ## Code Snippet
 
-```python
+```
+python
 def hello_world():
     print("Hello, world!")
 
 hello_world()
+```
 
 ## プロフィールの装飾
 
