@@ -1,8 +1,11 @@
 ## Skills
 
-- **Languages**: C, C++, Python, Java
-- **Tools**: Git, VS Code
+- **Languages**: C, C++, Python, Java  
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python">
 
+- **Tools**: VS Code  
+  <img src="https://skillicons.dev/icons?i=vscode">
+  
 ## Code Snippet
 
 ```
@@ -13,7 +16,4 @@ def hello_world():
 hello_world()
 ```
 
-## プロフィールの装飾
-
-- **バッジ**: Shields.ioを使ってバッジを追加し、スキルやステータスを表示できます。
-- **GIF**: 楽しいアニメーションや画像を追加して、プロフィールを魅力的に見せましょう。
+![](https://github-readme-stats.vercel.app/api/top-langs?username=DaichiFukuhara)
