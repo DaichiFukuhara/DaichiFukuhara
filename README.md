@@ -1,6 +1,6 @@
 ## Skills
 
-- **Languages**: C, C++, Python, Java  
+- **Languages**: Java, C, C++, Python  
   <img src="https://skillicons.dev/icons?i=java,c,cpp,python">
 
 - **Tools**: VS Code  
