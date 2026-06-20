@@ -5,7 +5,8 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,typescript,javascript,sql,html,css">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,py,ts,js,html,css">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 - **メイン**: Java, TypeScript / JavaScript
@@ -19,7 +20,8 @@
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,obsidian,latex,bash,linux,ubuntu,windows,processing,npm,Oracle,eclipse">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,obsidian,latex,bash,linux,ubuntu,windows,processing,npm,eclipse">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 - **エディタ**: VS Code, Obsidian, Eclipse
