@@ -52,6 +52,5 @@ while L <= R:                       # < ではなく <=
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=DaichiFukuhara)
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=DaichiFukuhara&show_icons=true&theme=default" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaichiFukuhara" />
 </p>
