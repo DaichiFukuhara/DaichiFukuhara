@@ -5,12 +5,12 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,py,ts,js,html,css,scm">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,py,ts,js,html,css">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 - **メイン**: Java, TypeScript / JavaScript
-- **授業・競プロ**: Python, C, C++（AtCoder で使用）
+- **授業・競プロ**: Python, C, C++（AtCoder で使用）, Scheme
 - **その他**: SQL, HTML / CSS
 
 ### Frameworks & Libraries
